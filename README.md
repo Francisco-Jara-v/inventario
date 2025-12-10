@@ -3,7 +3,7 @@
 # Funcionalidades
 
 <aside>
-💡
+
 
 - Agregar productos
 - Listar productos
@@ -18,7 +18,7 @@
 # Tecnologias usadas
 
 <aside>
-💡
+
 
 - Python 3
 - JSON como almacenamiento local
